@@ -1,4 +1,8 @@
-Name: Tanish khan
+Name: Tanish Khan
+
+Roll no. : 048
+
 Branch: CS AI
-Roll no. :048
-Section : Aplha
+
+Section: Aplha
+
